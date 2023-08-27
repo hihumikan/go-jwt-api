@@ -1,0 +1,9 @@
+---
+workflow:
+  - .github/*
+
+docker:
+  - .docker/*
+
+laravel:
+  - .laravel/*
