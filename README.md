@@ -63,3 +63,10 @@
         - swaggerはgoswagで自動生成
   - Precommit
       - Secretlint
+
+
+## やらないこと
+- gRPC
+  - マイクロサービスのユーズケースではない
+- graphQL
+  - 同じく，マイクロサービスの集約にはGraphQL使うけど，今回のユーズケースではない  
