@@ -28,6 +28,8 @@
       - Viper
   - Clean Architecture
       - DIP
+  - Validate
+    - go-playground/validator
  
 - infra
   - Docker Compose
