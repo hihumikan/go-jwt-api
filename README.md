@@ -42,6 +42,8 @@
             - Multi-stage build
     - Linter
         - Hadolint
+    - task runnner
+        - Taskfile
   - CI/CD
       - Linter / Formatter
           - golang-ci
