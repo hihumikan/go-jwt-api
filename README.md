@@ -46,6 +46,7 @@
       - Linter / Formatter
           - golang-ci
           - reviewdog
+          - actionlint
       - coverage
           - codecov
       - package update notification
